@@ -17,7 +17,6 @@ Answer: Senic Team was created by Lez/ArurmMighty in late October 2020 through D
 
 Question: What if my question isn't on here?
 Answer: Please contact any of the Senic Team members about that through the Senic Team Discord server found at the main page.
-[Senic eXtreme eXtravaganza](Senic eXtreme eXtravaganza Demo 1.zip)
 ```
 
 [Back to main page](https://thekingdudidly.github.io/SenicTeam.io/)
