@@ -2,6 +2,7 @@
 
 Here is where you can find frequently asked questions about Senic Team.
 
+```markdown
 - Question: What is Senic Team?
 - Answer: Senic Team is a team of people that make shitpost/meme styled games. It is also the home to Senic Teh Hedhood and friends.
 
@@ -16,5 +17,6 @@ Here is where you can find frequently asked questions about Senic Team.
 
 - Question: What if my question isn't on here?
 - Answer: Please contact any of the Senic Team members about that through the Senic Team Discord server found at the main page.
+```
 
 [Back to main page](https://thekingdudidly.github.io/SenicTeam.io/)
