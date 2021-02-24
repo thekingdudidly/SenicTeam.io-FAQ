@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+### FAQ
 
-You can use the [editor on GitHub](https://github.com/thekingdudidly/SenicTeam.io-FAQ/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is where you can find frequently asked questions about Senic Team.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Question: What is Senic Team?
+Answer: Senic Team is a team of people that make shitpost/meme styled games. It is also the home to Senic Teh Hedhood and friends.
 
-### Markdown
+Question: Is Senic Team involved with SEGA/Sonic Team?
+Answer: No. Senic Team is just a group of teens having fun, and is not made for profit.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Question: Who is Senic?
+Answer: Senic is a Sonic parody in a nutshell, but please read the Senic Teh hedhood and friends article for detail.
 
-```markdown
-Syntax highlighted code block
+Question: Who created Senic Team?
+Answer: Senic Team was created by Lez/ArurmMighty in late October 2020 through Discord. Also read the Credits article for more detail.
 
-# Header 1
-## Header 2
-### Header 3
+Question: What if my question isn't on here?
+Answer: Please contact any of the Senic Team members about that through the Senic Team Discord server found at the main page.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thekingdudidly/SenicTeam.io-FAQ/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Back to main page](https://thekingdudidly.github.io/SenicTeam.io/)
